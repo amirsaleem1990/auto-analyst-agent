@@ -1,0 +1,17 @@
+date,metric,value
+2026-01-01,revenue,120000
+2026-02-01,revenue,118000
+2026-03-01,revenue,125000
+2026-04-01,revenue,121000
+2026-01-01,churn,5.2
+2026-02-01,churn,5.0
+2026-03-01,churn,5.6
+2026-04-01,churn,5.9
+2026-01-01,conversion_rate,2.4
+2026-02-01,conversion_rate,2.6
+2026-03-01,conversion_rate,2.5
+2026-04-01,conversion_rate,2.3
+2026-01-01,cac,38
+2026-02-01,cac,40
+2026-03-01,cac,43
+2026-04-01,cac,47
