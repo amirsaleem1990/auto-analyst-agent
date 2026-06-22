@@ -1,0 +1,22 @@
+We love AI savviness — here’s your chance to show how you think with AI. This step is optional, but strong submissions will help you stand out in our screening process.
+
+Attempt one challenge below:
+
+1. Decision Brief Generator
+Create a tool that turns raw data into summaries and recommended business actions.
+ 
+ 2. The Auto-Analyst
+Design an AI that interprets data, surfaces patterns, and writes its own insights.
+ 
+ 3. Insight Summary Prompt
+Build a prompt that summarizes metrics into three key takeaways and an action point.
+
+How it works:
+- Use any public or dummy data (e.g. Kaggle, data.gov, or self-created), if required. Avoid using any confidential information.
+- You can use free tools like ChatGPT, Google Colab, Google Sheets + App Script, Streamlit, or Hugging Face. Expect to spend around 30–60 minutes on it.
+
+Submit:
+
+- A public link, document, or screenshots of your prototype or prompt
+- A public dataset link (if relevant)
+- A short 100-word summary of your idea and approach
